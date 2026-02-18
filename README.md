@@ -1,4 +1,4 @@
-# Birthday-Wishes-To-Gf
+# Birthday-Wishes-To-Friend
 This project is a personalized birthday website created to celebrate my girlfriend’s special day in a unique and memorable way. Instead of a traditional card or message, I wanted to design something interactive, heartfelt, and creative that reflects both my technical skills and the emotions behind the occasion.
 
 The website is built using HTML, CSS, and JavaScript, with a focus on smooth design, lively effects, and a user‑friendly layout. Every section is carefully customized to deliver a surprise that feels personal and engaging. From animated greetings to interactive elements, the site is designed to capture the joy of a birthday celebration while showcasing how technology can be used to express love and creativity.
